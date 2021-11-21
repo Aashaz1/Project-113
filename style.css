@@ -1,0 +1,10 @@
+.body_background {
+    text-align: center;
+    background-image: url("hbty.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+canvas {
+    background-color: white;
+}
